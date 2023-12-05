@@ -3,7 +3,7 @@
 This is a web application for managing an inspiration board, featuring a back-end layer and a front-end layer. The project is divided into two repositories: one for the back-end and one for the front-end.
 
 ### Accessing the Web Application
-[Inspiration Board Back-end Deployment](https://inspiration--board-bd6c80601d83.herokuapp.com/)
+[Inspiration Board Deployment](https://inspiration--board-bd6c80601d83.herokuapp.com/)
 
 
 ## Back-end Repository
